@@ -34,9 +34,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'islandora',
     'link_title' => 'Root Collection',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-browse-content_root-collection:islandora',
     ),
     'module' => 'menu',
@@ -54,9 +52,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => '© University of Connecticut',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-lower-menu_-university-of-connecticut:http://uconn.edu',
     ),
     'module' => 'menu',
@@ -74,9 +70,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'Disclaimers, Privacy & Copyright',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-lower-menu_disclaimers-privacy--copyright:http://uconn.edu/disclaimers-privacy-copyright/',
     ),
     'module' => 'menu',
@@ -94,9 +88,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'About',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_about:http://lib.uconn.edu/services/research/research-data/archiving/',
     ),
     'module' => 'menu',
@@ -114,9 +106,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'Feedback',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_feedback:mailto:researchdata@lib.uconn.edu',
     ),
     'module' => 'menu',
@@ -134,9 +124,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'user/login',
     'link_title' => 'Login',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_login:user/login',
     ),
     'module' => 'menu',
@@ -154,9 +142,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'user/logout',
     'link_title' => 'Logout',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_logout:user/logout',
     ),
     'module' => 'menu',
@@ -174,9 +160,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'Policies',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_policies:http://lib.uconn.edu/services/research/research-data/archiving/',
     ),
     'module' => 'menu',
@@ -194,9 +178,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'Submit',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-footer-menu_submit:http://research.lib.uconn.edu/submit',
     ),
     'module' => 'menu',
@@ -214,9 +196,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'uuid',
     'link_title' => 'About this site',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-header-menu_about-this-site:uuid/node/3dfbfeaf-cb77-4ac0-b16f-145af17649b5',
     ),
     'module' => 'menu',
@@ -234,9 +214,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'islandora/object/%',
     'link_title' => 'Browse repository',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'query' => array(
         'display' => 'list',
       ),
@@ -257,9 +235,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'uuid',
     'link_title' => 'Make contact',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-header-menu_make-contact:uuid/node/329a2134-140a-4447-a59f-389948bef2ba',
     ),
     'module' => 'menu',
@@ -277,9 +253,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => 'islandora-bookmark',
     'link_title' => 'My Bookmarks',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-header-menu_my-bookmarks:islandora-bookmark',
     ),
     'module' => 'menu',
@@ -297,9 +271,7 @@ function ctda_main_feature_menu_default_menu_links() {
     'router_path' => '',
     'link_title' => 'Support the Libraries',
     'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
+      'attributes' => array(),
       'identifier' => 'menu-library-support_support-the-libraries:http://lib.uconn.edu/about/giving/',
     ),
     'module' => 'menu',
